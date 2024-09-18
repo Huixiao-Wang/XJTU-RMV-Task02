@@ -1,3 +1,0 @@
-/home/patience/Document/VSCode/Repos/opencv_project/build/CMakeFiles/rebuild_cache.dir
-/home/patience/Document/VSCode/Repos/opencv_project/build/CMakeFiles/edit_cache.dir
-/home/patience/Document/VSCode/Repos/opencv_project/build/CMakeFiles/OpenCV_Project.dir
